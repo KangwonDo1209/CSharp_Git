@@ -1,0 +1,16 @@
+C:\Users\HelloWorld\Desktop\HelloWorld\C#\Project\CopyFile\CopyFile\bin\Debug\net8.0-windows\CopyFile.exe
+C:\Users\HelloWorld\Desktop\HelloWorld\C#\Project\CopyFile\CopyFile\bin\Debug\net8.0-windows\CopyFile.deps.json
+C:\Users\HelloWorld\Desktop\HelloWorld\C#\Project\CopyFile\CopyFile\bin\Debug\net8.0-windows\CopyFile.runtimeconfig.json
+C:\Users\HelloWorld\Desktop\HelloWorld\C#\Project\CopyFile\CopyFile\bin\Debug\net8.0-windows\CopyFile.dll
+C:\Users\HelloWorld\Desktop\HelloWorld\C#\Project\CopyFile\CopyFile\bin\Debug\net8.0-windows\CopyFile.pdb
+C:\Users\HelloWorld\Desktop\HelloWorld\C#\Project\CopyFile\CopyFile\obj\Debug\net8.0-windows\CopyFile.Form1.resources
+C:\Users\HelloWorld\Desktop\HelloWorld\C#\Project\CopyFile\CopyFile\obj\Debug\net8.0-windows\CopyFile.csproj.GenerateResource.cache
+C:\Users\HelloWorld\Desktop\HelloWorld\C#\Project\CopyFile\CopyFile\obj\Debug\net8.0-windows\CopyFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HelloWorld\Desktop\HelloWorld\C#\Project\CopyFile\CopyFile\obj\Debug\net8.0-windows\CopyFile.AssemblyInfoInputs.cache
+C:\Users\HelloWorld\Desktop\HelloWorld\C#\Project\CopyFile\CopyFile\obj\Debug\net8.0-windows\CopyFile.AssemblyInfo.cs
+C:\Users\HelloWorld\Desktop\HelloWorld\C#\Project\CopyFile\CopyFile\obj\Debug\net8.0-windows\CopyFile.csproj.CoreCompileInputs.cache
+C:\Users\HelloWorld\Desktop\HelloWorld\C#\Project\CopyFile\CopyFile\obj\Debug\net8.0-windows\CopyFile.dll
+C:\Users\HelloWorld\Desktop\HelloWorld\C#\Project\CopyFile\CopyFile\obj\Debug\net8.0-windows\refint\CopyFile.dll
+C:\Users\HelloWorld\Desktop\HelloWorld\C#\Project\CopyFile\CopyFile\obj\Debug\net8.0-windows\CopyFile.pdb
+C:\Users\HelloWorld\Desktop\HelloWorld\C#\Project\CopyFile\CopyFile\obj\Debug\net8.0-windows\CopyFile.genruntimeconfig.cache
+C:\Users\HelloWorld\Desktop\HelloWorld\C#\Project\CopyFile\CopyFile\obj\Debug\net8.0-windows\ref\CopyFile.dll
